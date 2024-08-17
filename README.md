@@ -1,6 +1,6 @@
 ## Base Architecture
 
-[Architecture](./assets/architecture.png)
+![Architecture](./assets/architecture.png)
 
 
 ## How to reproduce?
